@@ -6,7 +6,7 @@ can be replaced. Some Excel Files will remain. Also they are interested in data 
 So as an aspiring Data Analyst, I have come up with some awesome reports on Sales and Finance Analytics.
 
 Pipeline : 
-Performed ETL -> Data Cleaning -> Data Modeling -> Created dim_date Table -> Connedcted dim_date to Data Model -> Performed DAX Formula
+Performed ETL -> Data Cleaning -> Data Modeling -> Created dim_date Table -> Connected dim_date to Data Model -> Performed DAX Formula
 -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
 
 
